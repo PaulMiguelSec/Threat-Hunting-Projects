@@ -1,5 +1,10 @@
 # Threat Hunting Scenario: Data Exfiltration from PIP'd Employee
 
+<!--![officeguy](https://github.com/user-attachments/assets/a9391e23-e852-4fce-b1d5-6d7d7ca819e6)-->
+
+![image](https://github.com/user-attachments/assets/dd961da0-e1c6-4258-a0bc-39ef91f47870)
+
+
 ## Platforms and Tools Used
 - Windows 10 Virtual Machines (Microsoft Azure)
 - Endpoint Detection and Response (EDR): Microsoft Defender for Endpoint (MDE)
@@ -14,7 +19,7 @@ Management suspects that an employee, John Doe, recently placed on a performance
 John Doe is an administrator on his device and might try to archive/compress sensitive information and exfiltrate it to an external destination.
 
 ### MITRE ATT&CK Threat Actor Tactics, Techniques, and Procedures (TTPs)
-- [**T1078 - Valid Accounts**](https://attack.mitre.org/techniques/T1078/): Use of valid administrative credentials to bypass restrictions.
+- [**T1078 - Valid Accounts: Use of valid administrative credentials to bypass restrictions**](https://attack.mitre.org/techniques/T1078/)
 - [**T1560.001 - Archive Collected Data: Archive via Utility**](https://attack.mitre.org/techniques/T1560/001/)
 - [**T1059.001 - Command and Scripting Interpreter: PowerShell**](https://attack.mitre.org/techniques/T1059/001/)
 - [**T1567.002 - Exfiltration Over Web Service**](https://attack.mitre.org/techniques/T1567/002/)
