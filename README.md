@@ -48,7 +48,7 @@ DeviceFileEvents
 
 **Findings:**
 - A suspicious file `employee-data-20250106071834.zip` was identified, indicating potential data exfiltration.
-- **TTPs Identified:** **T1560.001 - Archive via Utility**
+- **TTPs Identified:** [**T1560.001 - Archive Collected Data: Archive via Utility**](https://attack.mitre.org/techniques/T1560/001/)
 
 #### 2. Process Events Analysis
 **Query:**
@@ -67,8 +67,8 @@ DeviceProcessEvents
 **Findings:**
 - Detected PowerShell script `exfiltratedata.ps1` installing 7zip and compressing files.
 - **TTPs Identified:**
-  - **T1059.001 - Command and Scripting Interpreter: PowerShell**
-  - **T1560.001 - Archive Collected Data: Archive via Utility**
+  - [**T1059.001 - Command and Scripting Interpreter: PowerShell**](https://attack.mitre.org/techniques/T1059/001/)
+  - [**T1560.001 - Archive Collected Data: Archive via Utility**](https://attack.mitre.org/techniques/T1560/001/)
 
 #### 3. Network Events Analysis
 **Query:**
@@ -87,8 +87,7 @@ DeviceNetworkEvents
 **Findings:**
 - Identified connections to Azure Blob storage via HTTPS (e.g., `https://sacyberrange00.blob.core.windows.net`).
 - **TTPs Identified:**
-  - **T1567.002 - Exfiltration Over Web Service**
-  - **T1071.001 - Application Layer Protocol: Web Protocols**
+  - [**T1567.002 - Exfiltration Over Web Service**](https://attack.mitre.org/techniques/T1567/002/)
 
 ---
 
