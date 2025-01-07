@@ -13,7 +13,7 @@
 
 ## 1. Scenario Overview
 
-Management suspects that an employee, Scott Firth, recently placed on a performance improvement plan (PIP), may be planning to exfiltrate sensitive company data. The employee has administrative access to their device (`LAB-WIN10`). The goal of this threat hunt is to detect any attempts to compress and transfer sensitive files to unauthorized locations and to mitigate potential risks.
+Management suspects that an employee, Scott Firth, who was recently placed on a performance improvement plan (PIP), may be planning to exfiltrate sensitive company data. The employee has administrative access to their device (`LAB-WIN10`). The goal of this threat hunt is to detect any attempts to compress and transfer sensitive files to unauthorized locations and to mitigate potential risks.
 
 ### Hypothesis
 Scott Firth is an administrator on his device and might try to archive/compress sensitive information and exfiltrate it to an external destination.
