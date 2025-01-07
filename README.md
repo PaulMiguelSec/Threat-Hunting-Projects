@@ -13,10 +13,10 @@
 
 ## 1. Scenario Overview
 
-Management suspects that an employee, John Doe, recently placed on a performance improvement plan (PIP), may be planning to exfiltrate sensitive company data. The employee has administrative access to their device (`LAB-WIN10`). The goal of this threat hunt is to detect any attempts to compress and transfer sensitive files to unauthorized locations and to mitigate potential risks.
+Management suspects that an employee, Scott Firth, recently placed on a performance improvement plan (PIP), may be planning to exfiltrate sensitive company data. The employee has administrative access to their device (`LAB-WIN10`). The goal of this threat hunt is to detect any attempts to compress and transfer sensitive files to unauthorized locations and to mitigate potential risks.
 
 ### Hypothesis
-John Doe is an administrator on his device and might try to archive/compress sensitive information and exfiltrate it to an external destination.
+Scott Firth is an administrator on his device and might try to archive/compress sensitive information and exfiltrate it to an external destination.
 
 ### MITRE ATT&CK Threat Actor Tactics, Techniques, and Procedures (TTPs)
 - [**T1078 - Valid Accounts: Use of valid administrative credentials to bypass restrictions**](https://attack.mitre.org/techniques/T1078/)
@@ -131,9 +131,9 @@ DeviceNetworkEvents
    - Enhance monitoring for connections to known file-sharing platforms and cloud storage services.
    - **TTP Addressed:** **T1567.002 - Exfiltration Over Web Service**
 4. **Employee-Specific Actions:**
-   - Conduct a formal interview with John Doe to address the findings and provide an opportunity for explanation.
+   - Conduct a formal interview with Scott Firth to address the findings and provide an opportunity for explanation.
    - Mandate participation in cybersecurity awareness training to reinforce acceptable use policies.
-   - Place John Doe under heightened monitoring for a defined period to ensure compliance with company policies.
+   - Place Scott Firth under heightened monitoring for a defined period to ensure compliance with company policies.
    - Involve HR to determine whether disciplinary actions or reassignment are necessary based on intent and severity.
 
 ---
