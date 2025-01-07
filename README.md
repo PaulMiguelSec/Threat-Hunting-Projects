@@ -1,4 +1,4 @@
-# Threat Hunting Scenario: Data Exfiltration from PIP'd Employee
+# Threat Hunting Scenario 1: Data Exfiltration from PIP'd Employee
 
 <!--![officeguy](https://github.com/user-attachments/assets/a9391e23-e852-4fce-b1d5-6d7d7ca819e6)-->
 
