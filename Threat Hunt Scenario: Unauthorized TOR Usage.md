@@ -1,4 +1,4 @@
-![Tor Logo with the onion and a crosshair on it](https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee)
+![unauthorisedtorbanner](https://github.com/user-attachments/assets/06d96ea5-4a2e-4c2e-9c20-fefcf403e647)
 
 # Threat Hunt Report: Unauthorized TOR Usage
 
