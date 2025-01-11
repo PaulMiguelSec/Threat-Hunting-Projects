@@ -2,6 +2,8 @@
 
 # Threat Hunt Report: Unauthorized TOR Usage
 
+### [Threat Event Creation](https://github.com/PaulMiguelSec/Threat-Hunting-Projects/blob/main/Threat-Event-Creation/Threat-Event-Unauthorized-TOR-Usage.md) 
+
 ## Platforms and Languages Leveraged
 - Windows 10 Virtual Machines (Microsoft Azure)
 - EDR Platform: Microsoft Defender for Endpoint
