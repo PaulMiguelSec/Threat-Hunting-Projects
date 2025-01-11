@@ -4,7 +4,7 @@
 
 ### [Threat Event Creation](https://github.com/PaulMiguelSec/Threat-Hunting-Projects/blob/main/Threat-Event-Creation/Threat-Event-Unauthorized-TOR-Usage.md) 
 
-## Platforms and Languages Leveraged
+## Platforms and Tools Used
 - Windows 10 Virtual Machines (Microsoft Azure)
 - EDR Platform: Microsoft Defender for Endpoint
 - Kusto Query Language (KQL)
