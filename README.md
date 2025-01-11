@@ -12,7 +12,7 @@ Welcome to my Threat Hunting Projects repository! This repository showcases prac
 
 ## Projects
 
-### [Threat Hunt Scenario: Data Exfiltration from PIP'd Employee](https://github.com/PaulMiguelSec/Threat-Hunting-Projects/blob/main/Threat%20Hunt%20Scenario%3A%20Data%20Exfiltration%20from%20PIP'd%20Employee.md)
+### [Threat Hunt Scenario: Data Exfiltration from Employee on PIP](https://github.com/PaulMiguelSec/Threat-Hunting-Projects/blob/main/Threat%20Hunt%20Scenario%3A%20Data%20Exfiltration%20from%20PIP'd%20Employee.md)
 **Scenario Overview:**  
 Management suspects that an employee, Scott Firth, who was recently placed on a Performance Improvement Plan (PIP), may be planning to exfiltrate sensitive company data. The employee has administrative access to their device (LAB-WIN10).  
 
