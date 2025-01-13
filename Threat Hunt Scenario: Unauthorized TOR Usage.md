@@ -40,9 +40,7 @@ DeviceFileEvents
 | order by Timestamp desc 
 | project Timestamp, ActionType, FileName, InitiatingProcessFileName, FolderPath
 ```
-
 ![tordevicefilequery](https://github.com/user-attachments/assets/ed18a8d1-e554-4416-990f-c4b390dc05ed)
-
 
 ---
 
@@ -65,7 +63,6 @@ DeviceProcessEvents
 
 ![tordeviceprocessquery](https://github.com/user-attachments/assets/99bd22ae-bb32-498b-a656-3d266d8cf90c)
 
-
 ---
 
 ### 3. Queried the `DeviceProcessEvents` Table for TOR Execution
@@ -87,7 +84,6 @@ DeviceProcessEvents
 
 ![tordeviceprocessquery2](https://github.com/user-attachments/assets/33319a19-174c-4c7c-b7fd-9ce608f98813)
 
-
 ---
 
 ### 4. Queried the `DeviceNetworkEvents` Table for TOR Network Connections
@@ -108,7 +104,6 @@ DeviceNetworkEvents
 ```
 
 ![tordevicenetworkquery](https://github.com/user-attachments/assets/c5a4472f-ce4a-42d3-9e22-2fb1908aabd7)
-
 
 ---
 
