@@ -1,12 +1,12 @@
 # Threat Hunting Projects
 
-Welcome to my Threat Hunting Projects repository! This repository showcases practical scenarios where I've applied threat hunting techniques to identify and mitigate potential security incidents. Each project demonstrates the use of advanced tools and frameworks to simulate real-world threats and effectively respond to them.
+Welcome to my Threat Hunting Projects repository This repository showcases practical scenarios where I've applied threat hunting techniques to identify and mitigate potential security incidents. Each project demonstrates the use of tools and frameworks to simulate real-world threats and effectively respond to them.
 
 ## Platforms and Tools Used
 - **Windows 10 Virtual Machines (Microsoft Azure):** Simulated enterprise environments for testing and analysis.
 - **Endpoint Detection and Response (EDR):** Microsoft Defender for Endpoint (MDE) for identifying and mitigating threats.
-- **Kusto Query Language (KQL):** Advanced querying for detailed log analysis.
-- **MITRE ATT&CK Framework:** Framework used for mapping adversary tactics and techniques.
+- **Kusto Query Language (KQL):** Querying for detailed log analysis.
+- **MITRE ATT&CK Framework:** For mapping adversary tactics and techniques.
 
 ---
 
