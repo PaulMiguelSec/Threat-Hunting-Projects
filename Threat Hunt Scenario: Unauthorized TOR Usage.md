@@ -147,10 +147,10 @@ DeviceNetworkEvents
 
 ## Summary
 
-The investigation confirms that the user downloaded, installed, and actively used the Tor Browser on their system. They executed the installer with a silent command, which initiated the creation of the application and associated files. A file named tor-shopping-list.txt was created and modified, indicating potential personal use. Network logs show that the Tor Browser successfully established multiple connections to remote servers through known Tor ports, including URLs and IPs tied to Tor relay nodes, confirming active use of the Tor network for anonymous traffic routing. The logs consistently support these findings.he Tor Browser’s functionality, including the presence of tor.exe and related processes.
+The investigation confirms that the user downloaded, installed, and actively used the Tor Browser on their system. They executed the installer with a silent command, which initiated the creation of the application and associated files. A file named tor-shopping-list.txt was created and modified, indicating potential personal use. Network logs show that the Tor Browser successfully established multiple connections to remote servers through known Tor ports, including URLs and IPs tied to Tor relay nodes, confirming active use of the Tor network for anonymous traffic routing. The logs consistently support these findings, confirming the Tor Browser's functionality, as evidenced by the presence of tor.exe and related processes.
 
 ---
 
 ## Response Taken
 
-Tor usage was confirmed on endpoint ThreatHunt-Win1 under the user account useruser. The device was promptly isolated from the network to prevent further unauthorized activity. The user's direct manager was notified, and an internal investigation was initiated to understand the intent and scope of Tor usage. Additionally, relevant logs were preserved for further analysis, and a security awareness session has been scheduled for the employee to address the risks associated with unauthorized software usage
+Tor usage was confirmed on endpoint ThreatHunt-Win1 under the user account useruser. The device was promptly isolated from the network to prevent further unauthorized activity. The user's direct manager was notified, and an internal investigation was initiated to understand the intent and scope of Tor usage. Additionally, relevant logs were preserved for further analysis, and a security awareness session has been scheduled for the employee to address the risks associated with unauthorized software usage.
